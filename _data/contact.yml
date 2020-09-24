@@ -7,14 +7,14 @@
 -
   type: github
   icon: 'fab fa-github'
-# -
+-
 #   type: twitter
 #   icon: 'fab fa-facebook'
-# -
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
-# -
+-
   # type: rss
   # icon: 'fas fa-rss'
   # noblank: true
@@ -24,8 +24,8 @@
   icon: 'fab fa-facebook'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.facebook.com/NumerologyPracticalSolutions/'                  # Fill with your mastodon account page
 -
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-# -
+  icon: 'fab fa-users'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.facebook.com/groups/555365208337761/?ref=share'                  # Fill with your Linkedin homepage
+-
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
