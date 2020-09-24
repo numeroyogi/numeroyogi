@@ -15,7 +15,7 @@ description:               >-                        # used by seo meta and the 
   A practical numerology website to provide blogs on numerlogy, astrology, hypnosis.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url:                       'https://numeroyogi.github.io'
+url:                       'numeroyogi.co.in'
 
 author:                    AdsT                  # change to your full name
 
@@ -45,7 +45,7 @@ google_site_verification:  google_meta_tag_verification # change to your verific
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl:                   '/numeroyogi'
+baseurl:                   ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:                  Asia/Kolkata
