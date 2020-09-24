@@ -4,7 +4,7 @@ author: Sumeet Tyagi
 date: 2020-09-09 14:10:00 +0530
 categories: [Numerology, Casestudy]
 tags: [casestudy, history, criminal case]
-image: case.jpg
+image: ./../case.jpg
 ---
 
 ## Sodomy, Attempt to Rape & 42 Years Coma
