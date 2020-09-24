@@ -4,8 +4,8 @@ author: Sumeet Tyagi
 date: 2020-09-09 14:10:00 +0530
 categories: [Numerology, Casestudy]
 tags: [casestudy, history, criminal case]
+image: /assets/img/sample/case.jpeg
 ---
-![Desktop View](/assets/img/sample/case.jpeg)
 ## Sodomy, Attempt to Rape & 42 Years Coma
 
 **Aruna Ramachandra Shanbaug** was a staff Nurse working in King Edward Memorial Hospital, Parel, Mumbai. On 27.11.1973, Aruna was attacked by a sweeper/ward boy Sohanlal Bhartha Walmiki in the hospital who wrapped a dog chain around her neck and yanked her back with it. Sohanlal tried to rape Aruna but finding that she was menstruating, he sodomized her. To immobilize her during this act he twisted the chain around her neck.
