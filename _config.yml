@@ -7,31 +7,29 @@
 
 #--------------------------
 
-title: NumeroYogi                          # the main title
+title:                     NumeroYogi                          # the main title
 
-tagline: Pratical Numerology Solutions  # it will display as the sub-title
+tagline:                   Pratical Numerology Solutions  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+description:               >-                        # used by seo meta and the atom feed
+  A practical numerology website to provide blogs on numerlogy, astrology, hypnosis.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://numeroyogi.github.io/numeroyogi-future/'
+url:                       'https://numeroyogi.github.io'
 
-author: AdsT                  # change to your full name
+author:                    AdsT                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar:                    /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: numeroyogi             # change to your github username
+  username:                numeroyogi             # change to your github username
 
 twitter:
-  username: NumerologyPracticalSolutions            # change to your twitter username
+  username:                NumerologyPracticalSolutions            # change to your twitter username
 
 social:
-  name: NumeroYogi                  # it will shows as the copyright owner in Footer
-  email: numeroyogi@gmail.com             # change to your email address
+  name:                    NumeroYogi                  # it will shows as the copyright owner in Footer
+  email:                   numeroyogi@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
@@ -40,32 +38,32 @@ social:
     - https://www.facebook.com/NumerologyPracticalSolutions/
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification:  google_meta_tag_verification # change to your verification string
 
 #--------------------------
 
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+baseurl:                   '/numeroyogi'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Kolkata
+timezone:                  Asia/Kolkata
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id:                      ''          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: false
+    enabled:               false
     # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: ''
-    proxy_endpoint: ''
-    cache: false  # pv data local cache, good for the users from GFW area.
+    proxy_url:             ''
+    proxy_endpoint:        ''
+    cache:                 false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments:                false  # boolean type, the global switch for posts comments.
+  shortname:               ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # Prefer color scheme setting, available values:
@@ -77,104 +75,104 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode:                dual
 
 # boolean type, global switch for ToC in posts.
-toc: true
+toc:                       true
 
-paginate: 10
+paginate:                  10
 
-markdown: kramdown
+markdown:                  kramdown
 
-highlighter: rouge
+highlighter:               rouge
 
 kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+  input:                   GFM
+  syntax_highlighter:      rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
-    css_class: 'highlight'
-    # default_lang: console
+    css_class:             'highlight'
+    # default_lang:        console
     span:
-      line_numbers: false
+      line_numbers:        false
     block:
-      line_numbers: true
-      start_line: 1
+      line_numbers:        true
+      start_line:          1
 
 # DO NOT change this unless you're a Pro user on Jekyll and Web development,
 # or you think you're smart enough to change other relevant URLs within this template.
-permalink: /posts/:title/
+permalink:                 /posts/:title/
 
 defaults:
   -
     scope:
-      path: ""          # An empty string here means all files in the project
-      type: posts
+      path:                ""          # An empty string here means all files in the project
+      type:                posts
     values:
-      layout: post
-      comments: true    # Enable comments in posts.
-      toc: true         # Display TOC column in posts.
-      location: Post
+      layout:              post
+      comments:            true    # Enable comments in posts.
+      toc:                 true         # Display TOC column in posts.
+      location:            Post
       breadcrumb:
         -
-          label: Posts
-          url: /
+          label:           Posts
+          url:             /
   -
     scope:
-      path: _drafts
+      path:                _drafts
     values:
-      comments: false
+      comments:            false
   -
     scope:
-      path: tags
+      path:                tags
     values:
-      tab_active: Tags
-      location: Tag
+      tab_active:          Tags
+      location:            Tag
       breadcrumb:
         -
-          label: Home
-          url: /
+          label:           Home
+          url:             /
         -
-          label: Tags
-          url: /tabs/tags/
+          label:           Tags
+          url:             /tabs/tags/
   -
     scope:
-      path: categories
+      path:                categories
     values:
-      tab_active: Categories
-      location: Category
+      tab_active:          Categories
+      location:            Category
       breadcrumb:
         -
-          label: Home
-          url: /
+          label:           Home
+          url:             /
         -
-          label: Categories
-          url: /tabs/categories/
+          label:           Categories
+          url:             /tabs/categories/
   -
     scope:
-      path: tabs
+      path:                tabs
     values:
-      layout: page
-      dynamic_title: true    # Hide title in mobile screens.
+      layout:              page
+      dynamic_title:       true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
-          url: /
+          label:           Home
+          url:             /
 
 
 sass:
-  sass_dir: /assets/css
-  style: compressed
+  sass_dir:                /assets/css
+  style:                   compressed
 
 compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: [html, head, body, dt, dd, rt, rp,
+  clippings:               all
+  comments:                ["<!-- ", " -->"]
+  endings:                 [html, head, body, dt, dd, rt, rp,
             optgroup, option, colgroup, caption,
             thead, tbody, tfoot, tr, td, th]
-  profile: false
-  blanklines: false
+  profile:                 false
+  blanklines:              false
   ignore:
-    envs: []
+    envs:                  []
 
 exclude:
   - vendor        # Avoid Jekyll mistakenly read the vendor directory on Travis-CI's VM .
@@ -185,7 +183,7 @@ exclude:
   - README.md
   - LICENSE
 
-sitemap_exclude:  # Sitemap will exclude the following items.
+sitemap_exclude:           # Sitemap will exclude the following items.
   fuzzy:
     - /assets/
   accurate:

@@ -2,7 +2,7 @@
 title: Numerology
 author: Cotes Chung
 date: 2020-09-15 11:33:00 +0530
-categories: [Numerology]
+categories: [Numerology, Learn]
 tags: [Numerology, Introduction]
 pin: true
 ---
