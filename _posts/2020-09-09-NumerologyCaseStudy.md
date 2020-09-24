@@ -3,7 +3,7 @@ title: Numero-Case Study of a most shocking case of Indian history
 author: Sumeet Tyagi
 date: 2020-09-09 14:10:00 +0530
 categories: [Numerology, Casestudy]
-tags: [casestudy, history, criminal case]
+tags: [casestudy, history, criminal case, numerology]
 image: /assets/img/sample/case.jpeg
 ---
 ## Sodomy, Attempt to Rape & 42 Years Coma
