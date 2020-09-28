@@ -4,7 +4,7 @@
 
 The intent, object and vision of NumeroYogi is to spread the real knowledge of the occult sciences, particularly Numerology and Astrology besides letting the World know about the richness of the great treasure of the wonderful mystic-sciences. The researches and findings of NumeroYogi are copyrighted exclusively owned by NumeroYogi © and shall be published time to time on this website for the benefit of the World and humanity.
 
-[![Numerology](numerology.jpg "Numerology")](numerology.jpg "Numerology")
+<!-- [![Numerology](numerology.jpg "Numerology")](numerology.jpg "Numerology") -->
 
 >BLOGS & SOCIAL MEDIA In addition to Articles and Case Studies available on this website, several other articles, case studies and notes are available on the following Social Media Platforms:
 
