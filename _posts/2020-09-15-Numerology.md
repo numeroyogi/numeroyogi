@@ -1,6 +1,6 @@
 ---
 title: Numerology
-author: Cotes Chung
+author: Sumeet Tyagi
 date: 2020-09-15 11:33:00 +0530
 categories: [Numerology, Learn]
 tags: [numerology, introduction]
