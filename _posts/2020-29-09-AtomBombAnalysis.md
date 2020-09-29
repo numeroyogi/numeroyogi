@@ -1,5 +1,5 @@
 ---
-title: Numero-Case Study of a most shocking case of Indian history
+title: Atom Bomb Numerology Analysis
 author: Sumeet Tyagi
 date: 2020-09-28 03:11:00 +0530
 categories: [Numerology, Casestudy]
