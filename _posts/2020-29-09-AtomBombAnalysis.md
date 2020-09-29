@@ -1,7 +1,7 @@
 ---
 title: Numero-Case Study of a most shocking case of Indian history
 author: Sumeet Tyagi
-date: 2020-28-09 03:11:00 +0530
+date: 2020-09-28 03:11:00 +0530
 categories: [Numerology, Casestudy]
 tags: [casestudy, history, world war, numerology]
 image: /assets/img/sample/case2.jpeg
