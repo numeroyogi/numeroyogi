@@ -1,5 +1,5 @@
 ---
-title:REIKI FOUNDER MIKAO USUI
+title: REIKI FOUNDER MIKAO USUI
 author: Sumeet Kr. Tyagi
 date: 2020-10-02 17:29:28 +0530
 categories: [Numerology, Case Study]
