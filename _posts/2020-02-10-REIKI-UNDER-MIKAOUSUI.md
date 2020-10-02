@@ -5,9 +5,8 @@ date: 2020-10-02 17:29:28 +0530
 categories: [Numerology, Case Study]
 tags: [mikao usui, reiki, casestudy, numerology]
 image: /assets/img/sample/mikaousui.jpg
-pin: false
-
 ---
+
 ## Numero-Analysis
 
 This Article is written to analyze numerology-aspects (life) of great person called “Mikao Usui” (Japan), the founder of Alternative Therapy System known as “REIKI” for physical, emotional & mental diseases and being followed all over the World. Mikao was also a Martial Art Samurai Technique “AIKI”. He married to Sadako Suzuki, had two children Fuji & Toshiko. Mikao Died on 09.03.1926. Most of the healers (alternative therapy) are governed by Number-6, 2 or 7. 
